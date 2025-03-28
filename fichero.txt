@@ -1,0 +1,3 @@
+hola estoy 
+añadiendo datos
+en el fichero.txt
