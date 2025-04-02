@@ -4,7 +4,8 @@
 
 ## ✔ Imagen  
 
-  ![Descripción de la imagen](https://via.placeholder.com/1000x500.png?text=Ejemplo)
+
+![heliconia-8599119_1280](https://github.com/user-attachments/assets/3441bac2-b0f1-4e97-b653-9c7e177be77d)
 
 
 🔗 Enlace Útil
